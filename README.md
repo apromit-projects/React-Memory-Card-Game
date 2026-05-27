@@ -1,6 +1,8 @@
-# React + Vite
+# Memory Card Game
 
-## Memory Card Game
+## Stack: React + Vite
+
+**Live Demo:** [React Memory Card Game](https://react-memory-card-game-two.vercel.app/)
 
 ### Screenshots
 
